@@ -9,3 +9,4 @@ thumbs.db
 *.zip
 npm-debug.log
 .idea
+.DS_Store
