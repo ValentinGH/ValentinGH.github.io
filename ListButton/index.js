@@ -4,7 +4,8 @@ window.onload = () => {
      const setTextButton = document.getElementById('set-text');
      const listButton = document.getElementById('add-to-list');
     
-    // PART 2
+    // PART 2 -- I changed this to a clear text button because I thought it would
+    // make things easier to deal with. 
     setTextButton.onclick = () => {
         userInput.value = '';
     }
