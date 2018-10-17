@@ -1,13 +1,34 @@
 button {
     background-color: #FA8072;
-    border: 2px black thick;
+    border: 2px black ridge;
+    
     color: greenyellow;
     text-align: center;    
     font-size: 16px;
 }
 
-h1 {
+header {
+background-color: whitesmoke;
+text-align: center;
+}
+
+header p{
+    text-align: center;
+font-weight: bold;
+font-size: 110%;
+
+}
+
+h1.center {
 text-align: center
+
+}
+
+.by-line {
+font-style: italic;
+font-size: 80%;
+text-align: center;
+
 }
 
 
