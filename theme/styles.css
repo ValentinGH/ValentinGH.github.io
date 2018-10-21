@@ -6,12 +6,10 @@ body {
   }
   h1 {
       font-size: 180%;
-      font-family: sans-serif;
+      font-family: fantasy;
       text-align: center;
-      color:white;
-      
-      
-  }
+      color: white;
+ }
   h2{
       font-size: 180%;
       font-family: sans-serif;
@@ -35,12 +33,46 @@ body {
 
  }
  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
+    width: 200px;
+    height: 200px;
+    align-self: left;
 }
+header{
+    background-color: black;
+    text-align: center;
     
+} 
+
+header p {
+font-weight: bold;
+color: blue;
+text-align: center;
+
+}
+.byline {
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 133%;
+    text-align: center;
+
+}
+figure.left{
+    float: left;
+}
+figcaption{
+    color:white;
+    font-size: small;
+}
+
+main
+{
+    background-color: black;
+}
+ul{
+    text-align: center;
+}
+
+
 
 
     
