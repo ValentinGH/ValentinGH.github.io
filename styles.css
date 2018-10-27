@@ -8,14 +8,14 @@ h1 {
 	font-size: 180%;
 	font-family: sans-serif;
 	text-align: left;
-	color: Red;
+	color: Blue:
 	
 }
 h2{
 	font-size: 180%;
 	font-family: sans-serif;
 	text-align: left;
-	color: Red;
+	color: Blue;
 }
 
 h3{
@@ -25,6 +25,22 @@ h3{
 	color: Black;
 	font-style: bold;
 	
+}
+nav{
+	background-color: aliceblue;
+	border: 1px green solid;
+	padding: 8px;
+	margin: -1px 0x 0px 0px;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+nav li {
+	display: inline;
+	padding: 8px;
 }
 
 
