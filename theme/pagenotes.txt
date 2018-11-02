@@ -14,7 +14,26 @@ PAGE 6 MY TIME PLAYING THE SERIES WHAT THE GAME MEANS TO ME '
 PAGE 7 ABOUT 
 
 Notes and goals :
-save screenshots in photoshop at 640x480 as png. 
+save screenshots in photoshop at 800x450 
+
+
+        <p>The Elder Scrolls V: Skyrim is an action role playing game designed and published by Bethesda studios. It is
+            the fifth installment of the Elder Scrolls series. The game was released on PC, xbox 360 and PS3 in
+            November of 2011. The game is set in the fictional province of Skyrim which is the northernmost province of
+            the continent of Tamriel.The design of the land and people of Skyrim are heavily influenced by Norse
+            mythology. The design of the game itself is an open world which gives you the freedom to move about the
+            world without having to stay within the boundaries of the main story. I have played many games over the
+            years but few have kept my interest the way Skyrim has. The combination of unparalleled world design, as
+            well as a thriving scene of modders and enthusiasts always keep things fresh and exciting to this day.</p>
+
+page structure (css)
+
+#container (page) -- whitesmoke
+    #HEADER - black --font color white, center 
+    #content -- white
+             -#main -- white .  float right
+            -#nav -- white . float left
+    #footer - - copyright --link to header (top)
 
 
 
