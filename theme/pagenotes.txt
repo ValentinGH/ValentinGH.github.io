@@ -1,22 +1,21 @@
-This is going to be a not section on how i want to structure this page. 
+This is going to be a note section on how i want to structure this page. 
 
 FIRST - HEADER INCLUDES THE FOLLOWING
 TITLE - THE ELDER SCROLLS SKYRIM A FAN PAGE. 
-PICTURE OF THE GAME - COVER ART
+PICTURE OF THE GAME - IN GAME SCREENSHOT
 TABLE OF CONTENTS - DIFFERENT SECTIONS OF THE PAGE -DEVELOPMENT HISTORY - GAME SETTING/ STORY - MY CHARACTER
-END HEADER 
 
 PAGE 2- GAME DEVELOPMENT HISTORY / RECEPTION
 PAGE 3- SETTING OF THE GAME/STORY
 PAGE 4 - DLCS ( DAWNGUARD AND DRAGONBORN)
 PAGE 5 - DIFFERENT CHARACTER BUILDS 
 PAGE 6 MY TIME PLAYING THE SERIES WHAT THE GAME MEANS TO ME '
-PAGE 7 ABOUT 
+PAGE 7 ABOUT  THE AUTHOR
 
 Notes and goals :
 save screenshots in photoshop at 800x450 
 
-
+            ABOUT SKYRIM
         <p>The Elder Scrolls V: Skyrim is an action role playing game designed and published by Bethesda studios. It is
             the fifth installment of the Elder Scrolls series. The game was released on PC, xbox 360 and PS3 in
             November of 2011. The game is set in the fictional province of Skyrim which is the northernmost province of
@@ -25,6 +24,11 @@ save screenshots in photoshop at 800x450
             world without having to stay within the boundaries of the main story. I have played many games over the
             years but few have kept my interest the way Skyrim has. The combination of unparalleled world design, as
             well as a thriving scene of modders and enthusiasts always keep things fresh and exciting to this day.</p>
+
+            MAIN STORY -- PICTURE OF OPENING SCENES /EXECUTION
+            
+
+
 
 page structure (css)
 
