@@ -1,8 +1,4 @@
 
-*{
-    box-sizing: border-box;
-
-}
 #container{
     background-color:whitesmoke;
     width: 800px;
@@ -34,6 +30,11 @@ img{
     padding:10px;
     text-align:justify;
 }
+.full-text{
+    width:800px;
+    border:none;
+    text-align: justify
+}
 
 #main{
     background-color:whitesmoke
@@ -43,7 +44,8 @@ img{
     background-color: whitesmoke;
     width:180px;
     float:left;
-    
+    list-style-image: url("../theme/ThemeImages/41PvBoMLX3L.jpg");
+
     font-family:fantasy;
     font-size: 24px;
 }
@@ -51,9 +53,14 @@ img{
 
 
 
-#footer{
-    clear: both;
-    background-color: whitesmoke;
+.footer{
+    
+    background-color: black;
+    border: 1px solid black;
+    text-align: center;
+    list-style-type: none;
+    display: inline;
+    color:white;
 }
 
 
@@ -63,22 +70,24 @@ img{
 }
 
 ul {
-    list-style-image: url("../theme/ThemeImages/41PvBoMLX3L.jpg");
-    text-emphasis: none;
+list-style-type: none;
+display: inline;
     
 }
 figure{
     width: 800px;
     background-color: black;
+    border:none;
 }
   figcaption{
-      text-align:left;
-      font-size:px;
+      text-align:center;
+      font-size:24px;
       background-color: black;
       color:white;
       width:800px;
       margin-right:auto;
       margin-left: auto;
+      font-family: Arial, Helvetica, sans-serif;
   }
     
 
@@ -92,6 +101,11 @@ li{
 }
 h1{
     text-align:center;
+    
+    color:white;
+    font-family:fantasy;
+    text-align: center;
+    font-size: 24px;
 }
 p{
     font-size: 24px;

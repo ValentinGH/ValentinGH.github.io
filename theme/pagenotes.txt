@@ -16,16 +16,30 @@ Notes and goals :
 save screenshots in photoshop at 800x450 
 
             ABOUT SKYRIM
-        <p>The Elder Scrolls V: Skyrim is an action role playing game designed and published by Bethesda studios. It is
-            the fifth installment of the Elder Scrolls series. The game was released on PC, xbox 360 and PS3 in
-            November of 2011. The game is set in the fictional province of Skyrim which is the northernmost province of
-            the continent of Tamriel.The design of the land and people of Skyrim are heavily influenced by Norse
-            mythology. The design of the game itself is an open world which gives you the freedom to move about the
-            world without having to stay within the boundaries of the main story. I have played many games over the
-            years but few have kept my interest the way Skyrim has. The combination of unparalleled world design, as
-            well as a thriving scene of modders and enthusiasts always keep things fresh and exciting to this day.</p>
+        The Elder Scrolls V: Skyrim is an action role playing game designed and published by Bethesda studios. It is the fifth installment of the Elder Scrolls series. The game was released on PC, xbox 360 and PS3 in November of 2011. The game is set in the fictional province of Skyrim which is the northernmost province of the continent of Tamriel.The design of the land and people of Skyrim are heavily influenced by Norse mythology. The design of the game itself is an open world which gives you the freedom to move about the world without having to stay within the boundaries of the main story.  I have played many games over the years but few have kept my interest the way Skyrim has. The combination of unparalleled world design, as well as a thriving scene of modders and enthusiasts  always keep things fresh and exciting to this day.
 
-            MAIN STORY -- PICTURE OF OPENING SCENES /EXECUTION
+
+Main story
+
+The story begins in the same manner as its predecessors Oblivion and Morrowind. You awake to find yourself a prisoner aboard an Imperial Wagon on its way to the town of Helgen, where you and the other passengers are being taken to execution. Hadvar, one of the rebels on the wagon with you , tells you that the person sitting next to you is Ulfric Stormcloak, the leader of the Stormcloak rebellion. 
+
+Once you reach the town of Helgen, you are taken to the execution block in the middle of the town. You are interrogated in from of two Imperial officers asking about your identity. This is where you can create your character from a wide variety of different races and backgrounds. 
+
+Once you have created your character, you are taken to the block to be executed. All hope seems lost… that is until the Dragon Alduin The World Eater begins to destroy the town. This is the chance you need to run to safety. You somehow manage to escape through an underground fort not just from your captors, but the mighty Dragon as well. This is where your open world adventure begins…As you progress through the main story you find out that you are <i> Dragonborn </i> .The Dragonborn is a hero in prophecy who is said to save the world from the main villain, the Dragon Alduin You have the soul of a dragon in human form which gives you the ability to speak in their native language. The Dragon language is not just for speaking . It also gives you access to the Thu’um a magical ability to shout in the dragons’ tongue. This gives you the player access to unique abilities. 
+
+Bethesda expanded upon the main story by adding two more expansion packs that were purchasable in addition to the main game. <i> Dawnguard </i> and  <i> Dragonborn </i> were released in 2012 for PC, Xbox360 and later for PS3.
+In the Dawnguard expansion you join a group of Vampire hunters known as the <i> Dawnguard </i> who are at war with Clan Volhikar, a group of ancient Vampires. This expansion was memorable for giving you the ability to turn into a Vampire Lord yourself which gave you access to a host of new abilities as well as a menacing new look. 
+
+Dragonborn takes your character to the island of Solstheim, an area that was last seen in the third expansion <i> Morrowind </i> . It is the home of the Dark Elves who have a unique design to their towns and armor. Solstheim itself contrasts sharply to the frozen forests of Skyrim. The land is covered in giant mushrooms and caves. The villain of this story is the sorcerer <i> Miraak </i> . Miraak claims to be the true dragonborn and sends his cult followers to assassinate you in Skyrim. This expansion gives the player a new story to fight through, as well as the ability to ride dragons. 
+
+
+
+
+
+
+
+
+        
             
 
 
