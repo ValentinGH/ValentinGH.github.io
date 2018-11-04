@@ -1,8 +1,8 @@
 window.onload = () => {
     // PART 1
-     const userInput = document.getElementById('list-data');
-     const setTextButton = document.getElementById('set-text');
-     const listButton = document.getElementById('add-to-list');
+    const userInput = document.getElementById('list-data');
+    const setTextButton = document.getElementById('set-text');
+     const listButton = document.getElementById('run-for-loop');
     
     
     setTextButton.onclick = () => {
@@ -13,10 +13,11 @@ window.onload = () => {
     //PART 3
     listButton.onclick = () =>
     {
+        const myList = document.getElementById('my-list');
         for(i;i<6;i++)
         {
-         const myList = document.getElementById('my-list');
-     elfCode.appendToList(myList, userInput.value);
+         
+     elfCode.appendToList(myList, i);
     }
  }
 }
