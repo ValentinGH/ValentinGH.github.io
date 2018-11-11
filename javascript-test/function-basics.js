@@ -1,25 +1,25 @@
 window.onload =() => {
     const FunctionCalls= document.getElementById("functionCalls"); 
-    const callUserInput = document.getElementById("callUserInput");
-    
-    FunctionCalls.onclick = () => {
+    const callUserInput = document.getElementById("callUserInput")
+     const returnValue = document.getElementById("functionReturn")
+     
+     FunctionCalls.onclick = () => {
         simpleFunction();
         functionParameters("many functions take parameters");
-        functionReturn();
-        const returnValue = functionReturn();
+           returnValue.textContent=  functionReturn();
         
-        console.log(returnValue);
+        
+    
     }
-  callUserInput.onclick=() => {
+callUserInput.onclick=() => {
         const userInputParagraph = document.getElementById("showUserInput");
         const UserInput = document.getElementById("userInput");
         userInputParagraph.textContent = UserInput.value;
-
-    
         
     }
-
+  
 }
+
 
     function simpleFunction()
     {
@@ -38,12 +38,10 @@ window.onload =() => {
 
         }
     
-function functionReturn()
+ function functionReturn() 
 {
     const returnText = "Many functions return values";
-    const simpleReturnParagraph = document.getElementById("functionReturn");
-    console.log(returnText);
-    simpleReturnParagraph.textContent = returnText;
-}
-
+    return(returnText);
     
+}
+  
