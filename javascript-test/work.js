@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+
 var person =  {
     firstName: 'Val',
     lastName: 'Montgomery',
@@ -13,17 +16,17 @@ var calculator = {
     add() {
         const sum = calculator.operand01 + calculator.operand02;
         
-        divider("sum:",sum);
+        divider("Add:",sum);
     }
     ,
     subtract()  {
         const difference = calculator.operand01 - calculator.operand02;
-        divider("difference:",difference);
+        divider("Subtract:",difference);
     }
 } // end calculator
 function multiply() {
   const product =   calculator.operand01 * calculator.operand02;
-  divider("Product:", product);
+  divider("Multiply:", product);
 
 }
 
