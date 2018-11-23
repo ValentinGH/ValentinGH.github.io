@@ -47,6 +47,12 @@ sayName () {
     return "custom class";
 }
 }
+
+console.log(simpleObject.sayName());
+var callFunctionObject = new FunctionObject();
+console.log(callFunctionObject.sayName());
+var callCustomClass = new CustomClass();
+console.log(callCustomClass.sayName());
     
 }
 
