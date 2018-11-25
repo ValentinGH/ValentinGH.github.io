@@ -60,11 +60,11 @@ pDescription.textContent= 'This button calls an array of programming languages a
 
     }
 
-} // onload
+
 
 
 for (let i = 0; i < arrays.numbers.length; i++) {
     console.log(arrays.numbers[i]);
 }
-
+} // onload
 
