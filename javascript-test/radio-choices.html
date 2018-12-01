@@ -1,47 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script src = 'radio-choices.js'></script>
+    <script src='radio-choices.js'></script>
     <link href="../ListButton/styles.css" type="text/css" rel="stylesheet" />
 
     <title>Radio Choices</title>
 </head>
 
-
 <body>
-<header><h1> Radio Choices: Valentin Montgomery</h1></header>
-<main>
-<section>
-    <fieldset>
-        <legend> The user selection</legend>
-        <p><b>User Choice</b> <span id ="user choice">unknown</span></p>
-    </fieldset>
-</section>
+    <header>
+        <h1> Radio Choices: Valentin Montgomery</h1>
+    </header>
+    <main>
+        <section>
+            <fieldset>
+                <legend> The user selection</legend>
+                <p><b>User Choice</b> <span id="user-choice">Select a color!</span></p>
+            </fieldset>
+        </section>
 
-<section id="form-section">
-    <fieldset>
-        <legend>Our Form</legend>
-        <form id="sort-type" action="goThere">
-                <input type="radio" id="blue" name="sorter" value="Blue" checked>
-                <label for="Blue">Blue</label>
-            
-                <input type="radio" id="Green" name="sorter" value="Green">
-                <label for="language">Language</label>
-                <div>
-                <input class="btn-padding" type="submit" value="Submit">
-                </div>
-            </form>
-    </fieldset>
-</section>
-</main>
-    
+        <section id="form-section">
+            <fieldset>
+                <legend>Our Form</legend>
+                <form id="sort-type" action="goThere">
+                    <input type="radio" id="Blue" name="sorter" value="Blue" checked>
+                    <label for="Blue">Blue</label>
 
-<footer> 
-<p>&copy by Val Montgomery</p>
-    <a href="../index.html">HOME PAGE</a>
-</footer>
+                    <input type="radio" id="Green" name="sorter" value="Green">
+                    <label for="Green">Green</label>
+
+                    <input type="radio" id="Pink" name="sorter" value="Pink">
+                    <label for="Pink">Pink</label>
+
+                    <input type="radio" id="Yellow" name="sorter" value="Yellow">
+                    <label for="Yellow">Yellow</label>
+
+                    <input type="radio" id="Purple" name="sorter" value="Purple">
+                    <label for="Purple">Purple</label>
+
+                    <div>
+                        <input class="btn-padding" type="submit" value="Submit">
+                    </div>
+                </form>
+            </fieldset>
+        </section>
+    </main>
+
+
+    <footer>
+        <p>&copy by Val Montgomery</p>
+        <a href="../index.html">HOME PAGE</a>
+    </footer>
 </body>
+
 </html>

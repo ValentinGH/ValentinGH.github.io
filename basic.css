@@ -2,7 +2,7 @@ body {
   font-size: 133%;
   font-family: sans-serif;
  text-align: left;
- background-color: blue;
+ background-color: white;
 }
 h1 {
 	font-size: 180%;
@@ -33,15 +33,17 @@ nav{
 	margin: -1px 0x 0px 0px;
 }
 nav ul {
-	list-style-type: none;
+	
 	margin: 0;
 	padding: 0;
 
 }
 nav li {
-	display: inline;
+	
 	padding: 8px;
 }
+
+
 
 
 	
