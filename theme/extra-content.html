@@ -4,8 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src= 'themeColor.js'></script>
+
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="styles.css" type="text/css" rel="stylesheet" />
+    <link href="styles.css" type="text/css" rel="stylesheet" id ='default'>
+    <link href="stylesDark.css" type="text/css" rel="alternate stylesheet" id ='basic'>
+
 
     <title>Expansion Content</title>
 
@@ -14,47 +18,59 @@
 <body>
 
     <div id="container">
-        <div id="header">
+        <header>
             <h1>Expansions/Content </h1>
             <img src="../theme/ThemeImages/ScreenShot98.png" alt="Expansions">
             <figcaption>Crypt from the <i>Dawnguard</i> story</figcaption>
             <h1 class="By-Line" type="h1">Dawnguard and Dragonborn</h1>
-        </div>
+        </header>
 
-        <class id="full-text">
-            <p>
-                Bethesda expanded upon the main story by adding two more expansion packs that were purchasable in
-                addition to the main game. <i> Dawnguard </i> and <i> Dragonborn </i> were released in 2012 for PC,
-                Xbox360 and later for PS3.
-                In the Dawnguard expansion you join a group of Vampire hunters known as the <i> Dawnguard </i> who are
-                at war with Clan Volhikar, a group of ancient Vampires. This expansion was memorable for giving you the
-                ability to turn into a Vampire Lord yourself which gave you access to a host of new abilities as well
-                as a menacing new look.
+        <p>
+            Bethesda expanded upon the main story by adding two more expansion packs that were purchasable in
+            addition to the main game. <i> Dawnguard </i> and <i> Dragonborn </i> were released in 2012 for PC,
+            Xbox360 and later for PS3.
+            In the Dawnguard expansion you join a group of Vampire hunters known as the <i> Dawnguard </i> who are
+            at war with Clan Volhikar, a group of ancient Vampires. This expansion was memorable for giving you the
+            ability to turn into a Vampire Lord yourself which gave you access to a host of new abilities as well
+            as a menacing new look.
 
-            </p>
-        </class> <!-- full-text-->
+        </p>
         <img src="ThemeImages/ScreenShot152.png" alt="The island of Solstheim">
         <figcaption>The Island of Solstheim</figcaption>
 
-        <class id="full-text">
-            <p>
-                Dragonborn takes your character to the island of Solstheim, an area that was last seen in the third
-                expansion <i> Morrowind </i> . It is the home of the Dark Elves who have a unique design to their towns
-                and armor. Solstheim itself contrasts sharply to the frozen forests of Skyrim. The land is covered in
-                giant mushrooms and caves. The villain of this story is the sorcerer <i> Miraak </i> . Miraak claims to
-                be the true dragonborn and sends his cult followers to assassinate you in Skyrim. This expansion gives
-                the player a new story to fight through, as well as the ability to ride dragons.
+        <p>
+            <i> Dragonborn </i> takes your character to the island of Solstheim, an area that was last seen in the
+            third
+            expansion <i> Morrowind </i> . It is the home of the Dark Elves who have a unique design to their towns
+            and armor. Solstheim itself contrasts sharply to the frozen forests of Skyrim. The land is covered in
+            giant mushrooms and caves. The villain of this story is the sorcerer <i> Miraak </i> . Miraak claims to
+            be the true dragonborn and sends his cult followers to assassinate you in Skyrim. This expansion gives
+            the player a new story to fight through, as well as the ability to ride dragons.
 
-            </p>
-        </class>
+        </p>
 
-        <class id="footer">
-                <ul> 
-                    <li><a href="index.html"> Home</a></li>
-                    <li><a href="about.html"> About</a></li>
-                </ul>
-            </class>
-    </div> <!--container-->
+        <div id ="content">
+                <h3>&copy; Val Montgomery 2018</h3>
+                <footer>
+                    <ul> 
+                        <li><a href="index.html"> Home</a></li>
+                        <li><a href="about.html"> About</a></li>
+                    </ul>
+                    <div id ="content">
+                           
+                          <button id ="theme-action-dark" type ="button">Dark Theme</button> 
+                         <button id ="theme-action-light" type ="button">Default Theme</button> 
+                            
+        
+                </div>
+                    
+                </footer>
+                </div>
+
+
+
+    </div>
+    <!--container-->
 
 
 

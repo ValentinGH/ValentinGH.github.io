@@ -5,35 +5,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="styles.css" type="text/css" rel="stylesheet" />
+    <script src= 'themeColor.js'></script>
+
+    <link href="styles.css" type="text/css" rel="stylesheet" id ="default" >
+    <link href="stylesDark.css" type="text/css" rel="alternate stylesheet" id ='basic'>
+
+    <link rel="shortcut icon" type="image/png" href="ThemeImages/themeFavicon.png" >
 
     <title>About The Author</title>
 </head>
 
 <body>
     <div id="container">
-        <div id="header">
-            <img src="ThemeImages/IMG_0043 16-29-17-137.JPG" alt="me">
-        </div>
-        <class id="full-text">
-            <p>
-                Valentin Montgomery is a noob with HTML/CSS and JavaScript (which will be added to this page later). He
-                is a diehard fan of the <i> Elder Scrolls </i> series
-                of games especially <i> Oblivion </i> and <i> Skyrim </i> .
-                All of the pictures (except for the one of me) were screenshots taken
-                in-game and edited for the page. 
-                <a href="../index.html"> my GitHub repository</a>
 
-            
-            </p>
-        </class>
-        <class id="footer">
-                <ul> 
+        <img src="ThemeImages/IMG_0043 16-29-17-137.JPG" alt="author">
+        <figcaption>The Cat is helping me. </figcaption>
+
+
+        <p>
+            Valentin Montgomery is a noob with HTML/CSS and JavaScript (which will be added to this page later). He
+            is a diehard fan of the <i> Elder Scrolls </i> series
+            of games especially <i> Oblivion </i> and <i> Skyrim </i> .
+            All of the pictures (except for the one of me) were screenshots taken
+            in-game and edited for the page.
+
+
+        </p>
+
+
+
+        <div id="content">
+            <h3>&copy; Val Montgomery 2018</h3>
+            <footer>
+                <ul>
                     <li><a href="index.html"> Home</a></li>
                     <li><a href="about.html"> About</a></li>
                 </ul>
-            </class>
+                <div id="content">
 
+                    <button id="theme-action-dark" type="button">Dark Theme</button>
+                    <button id="theme-action-light" type="button">Default Theme</button>
+
+
+                </div>
+
+            </footer>
+        </div>
 
     </div>
     <!--container-->

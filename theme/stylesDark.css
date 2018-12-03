@@ -1,6 +1,6 @@
 
 #container{
-    background-color:white;
+    background-color:Black;
     width: 801px;
     height:auto;
     margin-left: auto;
@@ -9,7 +9,7 @@
     
      }
      body{
-         background-color:white;
+         background-color:black;
      }
 .imgFloat {
     width: 400px;
@@ -25,7 +25,7 @@ header {
     
 }
 a{
-    color:black;
+    color:white;
     font-size: 16px;
     font: italic bold;
 }
@@ -41,16 +41,18 @@ img{
     float:right;
     padding:10px;
     text-align:justify;
+    background-color: black;
+ color:white;
 }
 
 main{
-    background-color:white;
+    background-color: black;
     
     
     
 }
 nav{
-    background-color: white;
+    background-color: black;
     width:180px;
 
     float:left;
@@ -62,10 +64,10 @@ line-height:1.5em;
 aside{
     
     font-size: 12px italic;
-    color: black;
+    color: white;
     
-    background-color:whitesmoke;
-    border: 1px solid black;
+    background-color:black;
+    border: 1px solid white;
 
 
 }
@@ -73,12 +75,12 @@ aside{
 
 footer{
     clear:both;
-    background-color: white;
+    background-color: black;
     
     text-align: left;
     list-style-type:default;
     display: inline;
-    color:black;
+    color:white;
     margin:10px; 
 }
 
@@ -123,23 +125,23 @@ h3 {
     font-size:12px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
-    color:black;
+    color:white;
 }
 p{
     font-size: 24px;
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    
-}
-    
-button {
     background-color: black;
-    border: 2px white thin;
-     padding: 10px 24px;
-    color:White;
-    font-size: 16px;
+    color: silver;
+    
 }
 
+button {
+    background-color: white;
+    border: 2px black thin;
+     padding: 10px 24px;
+    color:black;
+    font-size: 16px;
+}
 
 
